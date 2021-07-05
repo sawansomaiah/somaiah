@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+.container form h1
+{
+    margin-bottom: 50px;
+}
+
+.button
+{
+    margin-top:20px;
+}
+
+#email
+{
+    margin-bottom: 30px;
+}
+form
+{
+    max-width: 480px;
+    margin: auto;
+}
